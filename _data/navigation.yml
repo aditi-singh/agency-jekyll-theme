@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://robyn-sidekick.github.io/robyn/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -47,7 +47,7 @@ es: &DEFAULT_ES
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://robyn-sidekick.github.io/robyn/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
